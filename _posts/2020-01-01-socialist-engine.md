@@ -28,6 +28,7 @@ tasks_text: '- Implement Core Systems <br>
 - Implement Components following Components Design Pattern <br>
 - Implement BulletPhysics <br>
 - Components for physics (RigidBodies, Colliders, Constraints) <br>
+- Bug Fixing <br>
 '
 my_contributions: "https://isaaccalvis.github.io/Socialist_Engine/"
 ---

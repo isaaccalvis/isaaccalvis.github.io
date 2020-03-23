@@ -9,6 +9,11 @@ featured_image: '/img/posts/IlluminatiPinballShot2.PNG'
 project_link: 'https://github.com/isaaccalvis/PinballFisica'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: ""
+lead_text: "This is a basic pinball game with Illuminati assets."
 my_contributions: ""
+tasks_text: "
+- Implement Box2D <br>
+- Ball, flippers & ingame elements <br>
+- Some music & FX <br>
+"
 ---

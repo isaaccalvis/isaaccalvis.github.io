@@ -3,6 +3,14 @@ layout: inner
 title: About
 permalink: /about/
 ---
+
+I'm Isaac Calvís, born in 27/12/1998. Actually I live in Sant Cugat, near Barcelona (Catalunya). I started playing video games when I was a kit, with a GameBoy Advance.
+
+I'm in love with Bioshock, the original one.
+Also i love the Warcraft world, I play World of Warcraft and Warcraft3.
+
+In the videogame development, I started at 14, making games with Blender and it's logic blocks. Later i stated working with Unity, and made some game with C++ for windows console. Then I entered at University, I started a VideoGame Development & Design bacherol at CITM/UPC (Politecnical University of Catalonia), this year I'm finishing it.
+
 ## Markdown
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.

@@ -12,7 +12,8 @@ button_text: 'Visit Project'
 my_contributions: "https://alitaunbreakablewarrior.github.io/isaac_calvis.html"
 lead_text: 'Alita: Unbreakable Warrior is an ActionRPG made with our own GameEngine (JellyBit Engine).
 I worked as a Producer on this project.'
-tasks_text: '-Supervise development of Alita: Unbreakable Warrior <br>
+tasks_text: "
+-Supervise development of Alita: Unbreakable Warrior <br>
 -Calendar tracking (control milestones & objectives times) <br>
 -Control Personal Gantt’s (daily update) <br>
 -Control Personal tasks (using hack n plan) <br>
@@ -20,10 +21,10 @@ tasks_text: '-Supervise development of Alita: Unbreakable Warrior <br>
 -Make builds & updates <br>
 -Supervise Issues & Bugs (using github issues) <br>
 -Plan testings (internals & externals) <br>
-Other tasks:
+ <b> Other tasks: </b> <br>
 -Warning wall <br>
 -Falling column <br>
 -Credit Scene <br>
 -UI QuestLog <br>
-'
+"
 ---
