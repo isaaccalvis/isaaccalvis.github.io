@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'Socialist Engine'
-date: 2020-01-01 15:56:00
+date: 2020-01-01 15:57:00
 categories: development
 tags: C++ OpenGL SDL BulletPhysics DevIL Assimp ImGui
 featured_image: '/img/posts/SocialistEngineShot.png'
