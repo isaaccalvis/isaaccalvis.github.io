@@ -4,7 +4,7 @@ position: right
 title: 'Socialist Engine'
 date: 2020-01-01 15:56:00
 categories: development
-tags: C++ OpenGL SDL BulletPhysics DevIL Assimp
+tags: C++ OpenGL SDL BulletPhysics DevIL Assimp ImGui
 featured_image: '/img/posts/SocialistEngineShot.png'
 project_link: 'https://isaaccalvis.github.io/Socialist_Engine/'
 button_icon: 'github'
