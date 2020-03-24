@@ -9,7 +9,7 @@ featured_image: '/img/posts/SwaggityRabbityShot1.PNG'
 project_link: 'https://github.com/isaaccalvis/SwaggityRabbity'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: "This is a 2D platform game, where you have to pass across 2 levels. You can move, jump, hit and do an hability that can teleport you a short distance where you want (4 directions)"
+lead_text: "This is a 2D platform game, where you have to pass across 2 levels. You can move, jump, hit and do an hability that can teleport you a short distance"
 my_contributions: ""
 tasks_text: "
 - Core Systems <br>

@@ -10,7 +10,7 @@ featured_video: 'https://www.youtube.com/embed/pwYtGFjUXfY'
 project_link: 'https://softcactusteam.github.io/Warcraft-Heroes-Beyond-Time/'
 button_text: 'Visit Project'
 button_icon: 'github'
-lead_text: 'Warcraft: Heroes Beyond Time is a hack n slash videogame made with C/C++ & SDL, based on Warcraft2'
+lead_text: 'Warcraft: Heroes Beyond Time is a hack n slash videogame made with C/C++ & SDL, based on Warcraft2.'
 tasks_text: '- Entity system <br>
 - Pathfinding module <br>
 - Enemy AI <br>

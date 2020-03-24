@@ -14,7 +14,7 @@ tasks_text: '- Implement Core Systems <br>
 - Drag&Drop functionality <br>
 - Meshes importer <br>
 - Material importer <br>
-- Scene Importer
+- Scene Importer <br>
 - Configuration/ Properties/ Hierarchy panels ... <br>
 - QuadTree system <br>
 - Frustum Culling <br>
