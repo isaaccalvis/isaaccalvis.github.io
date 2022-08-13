@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'Tropic Apocallipse'
-date: 2020-01-01 14:15:00
+date: 2020-01-01 00:14:00
 categories: development
 tags: Unity C# AI
 featured_image: '/img/posts/tropic_apocallipse_img.jpg'

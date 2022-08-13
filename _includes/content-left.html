@@ -6,13 +6,17 @@
       {% include post-content.html %}
     </div>
 
+    {% if post.featured_image != empty %}
     <div class="col-xs-12 col-md-6">
       {% include featured-image.html %}
     </div>
+    {% endif %}
 
+    {% if post.featured_video != empty %}
     <div class="col-xs-12 col-md-6">
       {% include featured-video.html %}
     </div>
+    {% endif %}
 
   </div>
 

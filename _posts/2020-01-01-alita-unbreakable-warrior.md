@@ -2,9 +2,10 @@
 layout: inner
 position: left
 title: 'Alita: Unbreakable Warrior'
-date: 2020-01-01 21:15:00
+date: 2020-01-01 00:17:00
 categories: development
 tags: Producer TaskManagement QA Scripting
+featured_image: ''
 featured_video: 'https://www.youtube.com/embed/OPb1lIkBqQM'
 project_link: 'https://alitaunbreakablewarrior.github.io/'
 button_icon: 'flask'

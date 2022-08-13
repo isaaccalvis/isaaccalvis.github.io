@@ -2,10 +2,12 @@
 layout: inner
 position: right
 title: 'RedCircle Engine'
-date: 2020-01-01 15:57:00
+date: 2020-01-01 00:20:00
 categories: development
 tags: C++ OpenGL SDL BulletPhysics DevIL Assimp ImGui
 featured_image: '/img/posts/RedCircleShot.png'
+featured_video: ''
+
 project_link: 'https://isaaccalvis.github.io/RedCircle/'
 button_icon: 'github'
 button_text: 'Visit Project'

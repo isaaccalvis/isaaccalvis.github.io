@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Warcraft: Heroes Beyond Time'
-date: 2020-01-01 15:56:00
+date: 2020-01-01 00:19:00
 categories: development
 tags: C++ SDL
 #featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'

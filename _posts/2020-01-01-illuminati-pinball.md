@@ -1,11 +1,12 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Illuminati pinball'
-date: 2020-01-01 0:02:00
+date: 2020-01-01 0:11:00
 categories: development
 tags: C++ SDL Box2D
 featured_image: '/img/posts/IlluminatiPinballShot2.png'
+featured_video: ''
 project_link: 'https://github.com/isaaccalvis/PinballFisica'
 button_icon: 'github'
 button_text: 'Visit Project'

@@ -2,9 +2,10 @@
 layout: inner
 position: left
 title: 'Creative Lab VR (Collaboration with Volkswaggen)'
-date: 2020-01-01 21:15:00
+date: 2020-01-01 00:15:00
 categories: development
 tags: VR Programmer Unity Design TeamWork
+featured_image: ''
 featured_video: 'https://www.youtube.com/watch?v=HQh3ffd3wHM'
 project_link: 'https://www.youtube.com/watch?v=HQh3ffd3wHM'
 button_icon: 'youtube'

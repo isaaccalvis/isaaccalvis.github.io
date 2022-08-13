@@ -1,8 +1,8 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Swaggity Rabbity'
-date: 2020-01-01 00:01:00
+date: 2020-01-01 00:10:00
 categories: development
 tags: C++ SDL Tiled
 featured_image: '/img/posts/SwaggityRabbityShot1.PNG'
