@@ -24,7 +24,9 @@ linkedin_username: "isaaccalvisgil"
 
 # Build settings
 markdown: kramdown
-theme: phantom # Uncomment once published to RubyGems
+#theme: phantom # Uncomment once published to RubyGems
+remote_theme: jamigibbs/phantom@v1.1.2
+
 plugins:
   - jekyll-paginate-v2
 
