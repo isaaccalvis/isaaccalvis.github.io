@@ -16,7 +16,7 @@
 title: "Hello! I'm Isaac Calvís."
 email: 'isaaccalvis@gmail.com'
 description: "Software Engineer / Game Developer"
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://isaaccalvis.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'akisaac_98'
 github_username: 'isaaccalvis'
