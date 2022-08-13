@@ -26,7 +26,7 @@
           {% endif %}
 
           <p class="text-center">
-            <img src="img\IsaacCalvisIMG2.jpg" alt="IsaacPhoto" style="width:50%; height:50%; border-radius:50%; align:right;">
+            <img src="img\IsaacCalvisIMG2.jpg" alt="IsaacCalvisPhoto" style="width:35%; height:35%; border-radius:50%; align:right;">
           </p>
 
           <div class="hero-buttons">
@@ -37,11 +37,16 @@
             {% if site.linkedin_username != '' %}
               <a href="https://www.linkedin.com/in/isaac-calvis-gil-43107a187/"><button class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-lg"></i>LinkedIn</button></a>
             {% endif %}
+            {% if site.email != '' %}
+              <a href="mailto:{{ site.email }}"><button class="btn btn-default btn-lg"><i class="fa fa-envelope fa-lg"></i>email</button></a>
+            {% endif %}
+
               <!--
             {% if site.twitter_username != '' %}
               <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
             {% endif %}
               -->
+
           </div>
 
         </div>
@@ -49,6 +54,7 @@
       </div>
 
       <a class="section-jump text-center" href="#portfolio">
+        Projects <br>
         <i class="fa fa-angle-down fa-3x"></i>
       </a>
 
