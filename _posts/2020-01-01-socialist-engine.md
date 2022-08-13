@@ -1,15 +1,15 @@
 ---
 layout: inner
 position: right
-title: 'Socialist Engine'
+title: 'RedCircle Engine'
 date: 2020-01-01 15:57:00
 categories: development
 tags: C++ OpenGL SDL BulletPhysics DevIL Assimp ImGui
-featured_image: '/img/posts/SocialistEngineShot.png'
-project_link: 'https://isaaccalvis.github.io/Socialist_Engine/'
+featured_image: '/img/posts/RedCircleShot.png'
+project_link: 'https://isaaccalvis.github.io/RedCircle/'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'Socialist Engine is a video game 3D Engine with a physics system.'
+lead_text: 'RedCircle Engine is a video game 3D Engine with a physics system.'
 tasks_text: '- Implement Core Systems <br>
 - Drag&Drop functionality <br>
 - Meshes importer <br>
