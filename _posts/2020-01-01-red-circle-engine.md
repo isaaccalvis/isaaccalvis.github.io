@@ -7,8 +7,7 @@ categories: development
 tags: C++ OpenGL SDL BulletPhysics DevIL Assimp ImGui
 featured_image: '/img/posts/RedCircleShot.png'
 featured_video: ''
-
-project_link: 'https://isaaccalvis.github.io/RedCircle/'
+project_link: 'https://isaaccalvis.github.io/RedCircle_Engine/'
 button_icon: 'github'
 button_text: 'Visit Project'
 lead_text: 'RedCircle Engine is a video game 3D Engine with a physics system.'
